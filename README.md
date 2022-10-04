@@ -2,10 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&username=BrunoFerreira95" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=BrunoFerreira95" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -13,14 +9,6 @@
 
 ###
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/BrunoFerreira95/BrunoFerreira95">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFerreira95&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/BrunoFerreira95/BrunoFerreira95">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrunoFerreira95&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
 
 ###
 
