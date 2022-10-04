@@ -1,4 +1,4 @@
-<h2 align="left">Olá, meu nome é Bruno e eu sou um programador!</h2>
+<h2 align="left">Olá, meu nome é Bruno!</h2>
 
 ###
 
@@ -18,10 +18,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/BrunoFerreira95/BrunoFerreira95/blob/output/snake.svg" alt="Snake animation" />
-
-###
