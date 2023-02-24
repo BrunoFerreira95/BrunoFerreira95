@@ -1,7 +1,7 @@
 <h2 align="left">Olá, meu nome é Bruno!</h2>
 
 ###
-
+Atualmente trabalhando com React Native.
 
 ###
 
