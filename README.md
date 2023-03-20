@@ -1,4 +1,4 @@
-<h2 align="left">Olá, minha meta é ajudar outros devs e progredir na carreira!</h2>
+<h2 align="left">Dev Bruno</h2>
 
 ###
 Atualmente trabalhando com React, Next, Supabase
