@@ -15,6 +15,8 @@ Work force it’s implement Auth, with safe-guard of actions for multiple types 
 
 Also, work with control ID to access and handle with their SDK and documentation, so the application can create, upload photos, receive logs from the recognition face device.
 
+Automation of handle a lot of user to be register, set roles, before the user access the application.
+
 ###
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/47322135?v=4"  />
