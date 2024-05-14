@@ -1,7 +1,19 @@
 <h2 align="left">Dev Bruno</h2>
 
 ###
-Atualmente trabalhando com React, Next, Supabase
+Hey, I’m a graduate has analysis and developed of system.
+
+My Knolodge all in windows power shell preview script, Linux shell commands.
+
+My road of life is conquer 200 solutions algorithm to help a write and understand how to implement solutions when it’s necessary.
+
+My prior projects, use its Nextjs, Node, Supabase, Tailwind.
+
+Implement a streaming server, receive over 200 points of live camera and transformed in a live protocol with ssl certificate.
+
+My work force it’s implement Auth, with safe-guard of actions for multiple types of user.
+
+Also, work with control ID to access and handle with their SDK and documentation, so the application can create, upload photos, receive logs from the recognition face device.
 
 ###
 
